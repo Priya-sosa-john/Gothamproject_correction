@@ -1,0 +1,9 @@
+C:\Users\prince john\source\repos\FinalProject\DataService\bin\Debug\netcoreapp3.1\DataService.deps.json
+C:\Users\prince john\source\repos\FinalProject\DataService\bin\Debug\netcoreapp3.1\DataService.dll
+C:\Users\prince john\source\repos\FinalProject\DataService\bin\Debug\netcoreapp3.1\DataService.pdb
+C:\Users\prince john\source\repos\FinalProject\DataService\obj\Debug\netcoreapp3.1\DataService.csprojAssemblyReference.cache
+C:\Users\prince john\source\repos\FinalProject\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+C:\Users\prince john\source\repos\FinalProject\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
+C:\Users\prince john\source\repos\FinalProject\DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
+C:\Users\prince john\source\repos\FinalProject\DataService\obj\Debug\netcoreapp3.1\DataService.dll
+C:\Users\prince john\source\repos\FinalProject\DataService\obj\Debug\netcoreapp3.1\DataService.pdb
